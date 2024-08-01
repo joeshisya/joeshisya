@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer and 3D artist with a strong background in [Your Background - e.g., "Python, Flutter, and 3D modeling"]. I’m always eager to explore new technologies and work on exciting projects.
+Welcome to my GitHub profile! I'm a passionate software developer and 3D artist. I’m always eager to explore new technologies and work on exciting projects.
 
 ## 🚀 About Me
 
